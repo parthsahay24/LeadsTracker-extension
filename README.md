@@ -30,4 +30,4 @@ You can save the URL of your active tab in one click, store typed URLs, and view
 Since this extension isn’t published on the Chrome Web Store yet
 
 click on the given link and follow the steps 
-[`leads-tracker-extension-psi.vercel.app`](leads-tracker-extension-psi.vercel.app)
+[`leads-tracker-extension-psi.vercel.app`](https://leads-tracker-extension-psi.vercel.app/)
